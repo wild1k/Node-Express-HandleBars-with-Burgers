@@ -14,9 +14,11 @@
     "express-handlebars": "^3.1.0",
     "handlebars": "^4.7.6",
     "helper": "0.0.13",
+    "heroku": "^7.42.5",
     "init": "^0.1.2",
     "mysql": "^2.18.1",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "sequelize": "^6.3.3"
   },
   "devDependencies": {
     "handlebars-helper-css": "^0.1.0"
