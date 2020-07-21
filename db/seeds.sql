@@ -1,4 +1,4 @@
--- INSERT INTO burger (name, devoured) VALUES ('Quarter Pounder', true),
--- ('avacado burger', false),
--- ('bacon', true);
+INSERT INTO burger (burger_name) VALUES ('Quarter Pounder'),
+('avacado burger'),
+('bacon');
 
